@@ -1,1 +1,2 @@
 # Harsha_the_vertual_assistant
+**Harsha the Virtual Assistant** is an easy-to-use AI helper that makes your life simpler. With friendly communication and smart features, Harsha can help you manage your schedule, set reminders, and find information quickly. Whether you need to plan your day or get answers fast, Harsha is here to support you. Enjoy a more organized and efficient life with Harsha by your side!
